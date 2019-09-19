@@ -8,7 +8,7 @@
 
 在Linux操作系统中，所有被操作系统管理的资源，例如网络接口卡、磁盘驱动器、打印机、输入输出设备、普通文件或是目录都被看作是一个文件。LINUX系统中有一个重要的概念：一切都是文件。
 
-<img src="./assets/Linux/Linux目录结构.webp" width=60% align=center /><br/>
+![Linux目录结构](./assets/Linux/Linux目录结构.webp)
 
 **常见目录说明：**
 
